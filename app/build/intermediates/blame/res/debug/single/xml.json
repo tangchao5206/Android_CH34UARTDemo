@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\demo\\Android_CH34UARTDemo\\app\\build\\intermediates\\res\\merged\\debug\\xml\\device_filter.xml",
+        "source": "F:\\demo\\Android_CH34UARTDemo\\app\\src\\main\\res\\xml\\device_filter.xml"
+    },
+    {
+        "merged": "D:\\demo\\CH34xUARTDemo\\app\\build\\intermediates\\res\\merged\\debug\\xml\\device_filter.xml",
+        "source": "D:\\demo\\CH34xUARTDemo\\app\\src\\main\\res\\xml\\device_filter.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\demo\\Android_CH34UARTDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "F:\\demo\\Android_CH34UARTDemo\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "F:\\demo\\Android_CH34UARTDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main1.xml",
+        "source": "F:\\demo\\Android_CH34UARTDemo\\app\\src\\main\\res\\layout\\main1.xml"
+    },
+    {
+        "merged": "D:\\demo\\CH34xUARTDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main1.xml",
+        "source": "D:\\demo\\CH34xUARTDemo\\app\\src\\main\\res\\layout\\main1.xml"
+    },
+    {
+        "merged": "D:\\demo\\CH34xUARTDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\demo\\CH34xUARTDemo\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "F:\\demo\\Android_CH34UARTDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_spinner_textview.xml",
+        "source": "F:\\demo\\Android_CH34UARTDemo\\app\\src\\main\\res\\layout\\my_spinner_textview.xml"
+    },
+    {
+        "merged": "D:\\demo\\CH34xUARTDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_spinner_textview.xml",
+        "source": "D:\\demo\\CH34xUARTDemo\\app\\src\\main\\res\\layout\\my_spinner_textview.xml"
+    }
+]

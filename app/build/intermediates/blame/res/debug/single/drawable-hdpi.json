@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\demo\\Android_CH34UARTDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "F:\\demo\\Android_CH34UARTDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\demo\\Android_CH34UARTDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "F:\\demo\\Android_CH34UARTDemo\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    }
+]

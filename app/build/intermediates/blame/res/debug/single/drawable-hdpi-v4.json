@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\demo\\CH34xUARTDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_pattern.xml",
+        "source": "D:\\demo\\CH34xUARTDemo\\app\\src\\main\\res\\drawable-hdpi\\button_pattern.xml"
+    },
+    {
+        "merged": "D:\\demo\\CH34xUARTDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "D:\\demo\\CH34xUARTDemo\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "F:\\demo\\Android_CH34UARTDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_pattern.xml",
+        "source": "F:\\demo\\Android_CH34UARTDemo\\app\\src\\main\\res\\drawable-hdpi\\button_pattern.xml"
+    },
+    {
+        "merged": "D:\\demo\\CH34xUARTDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\demo\\CH34xUARTDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

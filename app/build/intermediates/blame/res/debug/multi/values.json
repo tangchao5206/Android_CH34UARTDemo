@@ -1,0 +1,990 @@
+[
+    {
+        "outputFile": "F:\\demo\\Android_CH34UARTDemo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 16,
+                    "endColumn": 16,
+                    "endOffset": 440
+                },
+                "from": {
+                    "file": "F:\\demo\\Android_CH34UARTDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 866,
+                        "endLine": 35,
+                        "endColumn": 16,
+                        "endOffset": 1251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 445,
+                    "endLine": 22,
+                    "endColumn": 16,
+                    "endOffset": 586
+                },
+                "from": {
+                    "file": "F:\\demo\\Android_CH34UARTDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 1,
+                        "startOffset": 1366,
+                        "endLine": 47,
+                        "endColumn": 16,
+                        "endOffset": 1507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 591,
+                    "endLine": 26,
+                    "endColumn": 16,
+                    "endOffset": 701
+                },
+                "from": {
+                    "file": "F:\\demo\\Android_CH34UARTDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 1,
+                        "startOffset": 1678,
+                        "endLine": 60,
+                        "endColumn": 16,
+                        "endOffset": 1788
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 706,
+                    "endLine": 33,
+                    "endColumn": 16,
+                    "endOffset": 867
+                },
+                "from": {
+                    "file": "F:\\demo\\Android_CH34UARTDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 1,
+                        "startOffset": 1511,
+                        "endLine": 55,
+                        "endColumn": 16,
+                        "endOffset": 1674
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 872,
+                    "endLine": 37,
+                    "endColumn": 16,
+                    "endOffset": 978
+                },
+                "from": {
+                    "file": "F:\\demo\\Android_CH34UARTDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 1,
+                        "startOffset": 1255,
+                        "endLine": 40,
+                        "endColumn": 16,
+                        "endOffset": 1361
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 983,
+                    "endColumn": 57,
+                    "endOffset": 1036
+                },
+                "from": {
+                    "file": "F:\\demo\\Android_CH34UARTDemo\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1041,
+                    "endColumn": 55,
+                    "endOffset": 1092
+                },
+                "from": {
+                    "file": "F:\\demo\\Android_CH34UARTDemo\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1097,
+                    "endColumn": 52,
+                    "endOffset": 1145
+                },
+                "from": {
+                    "file": "F:\\demo\\Android_CH34UARTDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 52,
+                        "endOffset": 158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1150,
+                    "endColumn": 50,
+                    "endOffset": 1196
+                },
+                "from": {
+                    "file": "F:\\demo\\Android_CH34UARTDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 50,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1201,
+                    "endColumn": 46,
+                    "endOffset": 1243
+                },
+                "from": {
+                    "file": "F:\\demo\\Android_CH34UARTDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 217,
+                        "endColumn": 46,
+                        "endOffset": 259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 1248,
+                    "endColumn": 51,
+                    "endOffset": 1295
+                },
+                "from": {
+                    "file": "F:\\demo\\Android_CH34UARTDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 264,
+                        "endColumn": 51,
+                        "endOffset": 311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 1300,
+                    "endColumn": 39,
+                    "endOffset": 1335
+                },
+                "from": {
+                    "file": "F:\\demo\\Android_CH34UARTDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 778,
+                        "endColumn": 39,
+                        "endOffset": 813
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 1340,
+                    "endColumn": 41,
+                    "endOffset": 1377
+                },
+                "from": {
+                    "file": "F:\\demo\\Android_CH34UARTDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 556,
+                        "endColumn": 41,
+                        "endOffset": 593
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 1382,
+                    "endColumn": 45,
+                    "endOffset": 1423
+                },
+                "from": {
+                    "file": "F:\\demo\\Android_CH34UARTDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 366,
+                        "endColumn": 45,
+                        "endOffset": 407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 1428,
+                    "endColumn": 37,
+                    "endOffset": 1461
+                },
+                "from": {
+                    "file": "F:\\demo\\Android_CH34UARTDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 458,
+                        "endColumn": 37,
+                        "endOffset": 491
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 1466,
+                    "endColumn": 52,
+                    "endOffset": 1514
+                },
+                "from": {
+                    "file": "F:\\demo\\Android_CH34UARTDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 52,
+                        "endOffset": 212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 1519,
+                    "endColumn": 42,
+                    "endOffset": 1557
+                },
+                "from": {
+                    "file": "F:\\demo\\Android_CH34UARTDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 818,
+                        "endColumn": 42,
+                        "endOffset": 856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 1562,
+                    "endColumn": 37,
+                    "endOffset": 1595
+                },
+                "from": {
+                    "file": "F:\\demo\\Android_CH34UARTDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 740,
+                        "endColumn": 37,
+                        "endOffset": 773
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 1600,
+                    "endColumn": 45,
+                    "endOffset": 1641
+                },
+                "from": {
+                    "file": "F:\\demo\\Android_CH34UARTDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 412,
+                        "endColumn": 45,
+                        "endOffset": 453
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 1646,
+                    "endColumn": 49,
+                    "endOffset": 1691
+                },
+                "from": {
+                    "file": "F:\\demo\\Android_CH34UARTDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 598,
+                        "endColumn": 49,
+                        "endOffset": 643
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 1696,
+                    "endColumn": 45,
+                    "endOffset": 1737
+                },
+                "from": {
+                    "file": "F:\\demo\\Android_CH34UARTDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 318,
+                        "endColumn": 45,
+                        "endOffset": 359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 1742,
+                    "endColumn": 39,
+                    "endOffset": 1777
+                },
+                "from": {
+                    "file": "F:\\demo\\Android_CH34UARTDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 700,
+                        "endColumn": 39,
+                        "endOffset": 735
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 1782,
+                    "endColumn": 51,
+                    "endOffset": 1829
+                },
+                "from": {
+                    "file": "F:\\demo\\Android_CH34UARTDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 648,
+                        "endColumn": 51,
+                        "endOffset": 695
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 1834,
+                    "endLine": 62,
+                    "endColumn": 12,
+                    "endOffset": 2120
+                },
+                "from": {
+                    "file": "F:\\demo\\Android_CH34UARTDemo\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 2125,
+                    "endLine": 65,
+                    "endColumn": 12,
+                    "endOffset": 2280
+                },
+                "from": {
+                    "file": "F:\\demo\\Android_CH34UARTDemo\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\demo\\CH34xUARTDemo\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 16,
+                    "endColumn": 16,
+                    "endOffset": 440
+                },
+                "from": {
+                    "file": "D:\\demo\\CH34xUARTDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 866,
+                        "endLine": 35,
+                        "endColumn": 16,
+                        "endOffset": 1251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 445,
+                    "endLine": 22,
+                    "endColumn": 16,
+                    "endOffset": 586
+                },
+                "from": {
+                    "file": "D:\\demo\\CH34xUARTDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 1,
+                        "startOffset": 1366,
+                        "endLine": 47,
+                        "endColumn": 16,
+                        "endOffset": 1507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 591,
+                    "endLine": 26,
+                    "endColumn": 16,
+                    "endOffset": 701
+                },
+                "from": {
+                    "file": "D:\\demo\\CH34xUARTDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 1,
+                        "startOffset": 1678,
+                        "endLine": 60,
+                        "endColumn": 16,
+                        "endOffset": 1788
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 706,
+                    "endLine": 33,
+                    "endColumn": 16,
+                    "endOffset": 867
+                },
+                "from": {
+                    "file": "D:\\demo\\CH34xUARTDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 1,
+                        "startOffset": 1511,
+                        "endLine": 55,
+                        "endColumn": 16,
+                        "endOffset": 1674
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 872,
+                    "endLine": 37,
+                    "endColumn": 16,
+                    "endOffset": 978
+                },
+                "from": {
+                    "file": "D:\\demo\\CH34xUARTDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 1,
+                        "startOffset": 1255,
+                        "endLine": 40,
+                        "endColumn": 16,
+                        "endOffset": 1361
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 983,
+                    "endColumn": 57,
+                    "endOffset": 1036
+                },
+                "from": {
+                    "file": "D:\\demo\\CH34xUARTDemo\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1041,
+                    "endColumn": 55,
+                    "endOffset": 1092
+                },
+                "from": {
+                    "file": "D:\\demo\\CH34xUARTDemo\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1097,
+                    "endColumn": 52,
+                    "endOffset": 1145
+                },
+                "from": {
+                    "file": "D:\\demo\\CH34xUARTDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 52,
+                        "endOffset": 158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1150,
+                    "endColumn": 50,
+                    "endOffset": 1196
+                },
+                "from": {
+                    "file": "D:\\demo\\CH34xUARTDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 50,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1201,
+                    "endColumn": 46,
+                    "endOffset": 1243
+                },
+                "from": {
+                    "file": "D:\\demo\\CH34xUARTDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 217,
+                        "endColumn": 46,
+                        "endOffset": 259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 1248,
+                    "endColumn": 51,
+                    "endOffset": 1295
+                },
+                "from": {
+                    "file": "D:\\demo\\CH34xUARTDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 264,
+                        "endColumn": 51,
+                        "endOffset": 311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 1300,
+                    "endColumn": 39,
+                    "endOffset": 1335
+                },
+                "from": {
+                    "file": "D:\\demo\\CH34xUARTDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 778,
+                        "endColumn": 39,
+                        "endOffset": 813
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 1340,
+                    "endColumn": 41,
+                    "endOffset": 1377
+                },
+                "from": {
+                    "file": "D:\\demo\\CH34xUARTDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 556,
+                        "endColumn": 41,
+                        "endOffset": 593
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 1382,
+                    "endColumn": 45,
+                    "endOffset": 1423
+                },
+                "from": {
+                    "file": "D:\\demo\\CH34xUARTDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 366,
+                        "endColumn": 45,
+                        "endOffset": 407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 1428,
+                    "endColumn": 37,
+                    "endOffset": 1461
+                },
+                "from": {
+                    "file": "D:\\demo\\CH34xUARTDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 458,
+                        "endColumn": 37,
+                        "endOffset": 491
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 1466,
+                    "endColumn": 52,
+                    "endOffset": 1514
+                },
+                "from": {
+                    "file": "D:\\demo\\CH34xUARTDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 52,
+                        "endOffset": 212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 1519,
+                    "endColumn": 42,
+                    "endOffset": 1557
+                },
+                "from": {
+                    "file": "D:\\demo\\CH34xUARTDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 818,
+                        "endColumn": 42,
+                        "endOffset": 856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 1562,
+                    "endColumn": 37,
+                    "endOffset": 1595
+                },
+                "from": {
+                    "file": "D:\\demo\\CH34xUARTDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 740,
+                        "endColumn": 37,
+                        "endOffset": 773
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 1600,
+                    "endColumn": 45,
+                    "endOffset": 1641
+                },
+                "from": {
+                    "file": "D:\\demo\\CH34xUARTDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 412,
+                        "endColumn": 45,
+                        "endOffset": 453
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 1646,
+                    "endColumn": 49,
+                    "endOffset": 1691
+                },
+                "from": {
+                    "file": "D:\\demo\\CH34xUARTDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 598,
+                        "endColumn": 49,
+                        "endOffset": 643
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 1696,
+                    "endColumn": 45,
+                    "endOffset": 1737
+                },
+                "from": {
+                    "file": "D:\\demo\\CH34xUARTDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 318,
+                        "endColumn": 45,
+                        "endOffset": 359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 1742,
+                    "endColumn": 39,
+                    "endOffset": 1777
+                },
+                "from": {
+                    "file": "D:\\demo\\CH34xUARTDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 700,
+                        "endColumn": 39,
+                        "endOffset": 735
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 1782,
+                    "endColumn": 51,
+                    "endOffset": 1829
+                },
+                "from": {
+                    "file": "D:\\demo\\CH34xUARTDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 648,
+                        "endColumn": 51,
+                        "endOffset": 695
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 1834,
+                    "endLine": 62,
+                    "endColumn": 12,
+                    "endOffset": 2120
+                },
+                "from": {
+                    "file": "D:\\demo\\CH34xUARTDemo\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 2125,
+                    "endLine": 65,
+                    "endColumn": 12,
+                    "endOffset": 2280
+                },
+                "from": {
+                    "file": "D:\\demo\\CH34xUARTDemo\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

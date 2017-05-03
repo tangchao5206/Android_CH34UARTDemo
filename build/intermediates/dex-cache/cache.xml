@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\androidsdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="F:\demo\Android_CH34UARTDemo\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_ead0e068222a4d2cd0f97b67330c58f6eda01c68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\demo\Android_CH34UARTDemo\app\libs\CH34xUARTDriver.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2e912ab37494eb529329380caace77005b88876e">
+        <dex dex="F:\demo\Android_CH34UARTDemo\app\build\intermediates\pre-dexed\debug\CH34xUARTDriver_5713b7d73aa4a88468e707119bcb320f5d7a3f43.jar" />
+    </item>
+
+</items>
